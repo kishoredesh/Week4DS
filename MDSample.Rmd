@@ -1,0 +1,20 @@
+---
+title: "MDExamples"
+author: "Kishore"
+date: "October 28, 2016"
+output: html_document
+---
+
+ 
+# This is header 1
+## This is header 2
+### This is header 3
+*My name in italics Kishore Deshpande*
+
+**My name in bold Kishore Deshpande**
+
+*You **can**  *Kishore **Deshpande** combine them*
+
+* This is my first task
+
+* This is my second task
