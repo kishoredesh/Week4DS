@@ -18,3 +18,5 @@ output: html_document
 * This is my first task
 
 * This is my second task
+
+[I am an inline style link for youtube](https://youtube.com)
